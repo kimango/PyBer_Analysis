@@ -6,5 +6,4 @@
 ## Results
     ![Summary Data Frame](https://github.com/kimango/PyBer_Analysis/blob/main/Analysis/Fig7.png)
   
-    - 
 Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
